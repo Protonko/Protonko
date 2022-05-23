@@ -1,8 +1,8 @@
 # 💫About Me :
-🔭 I’m currently working on Raiffeisen Bank Russia
-🌱 I’m currently learning more about NestJS
-💬 Ask me about React, React Native
-📪 How to reach me: Mail: probegrofanston@gmail.com
+- 🔭 I’m currently working on Raiffeisen Bank Russia
+- 🌱 I’m currently learning more about NestJS
+- 💬 Ask me about React, React Native
+- 📪 How to reach me: probegrofanston@gmail.com
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/protonko) 
