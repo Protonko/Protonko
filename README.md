@@ -1,5 +1,5 @@
 # 💫About Me :
-- 🔭 I’m currently working on Raiffeisen Bank Russia
+- 🔭 I’m currently working on Raiffeisen Bank
 - 🌱 I’m currently learning more about NestJS
 - 💬 Ask me about React, React Native
 - 📪 How to reach me: probegrofanston@gmail.com
@@ -13,9 +13,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Protonko&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Protonko&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Protonko&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Protonko&icon=5&color=2)](https://visitcount.itsvg.in)
