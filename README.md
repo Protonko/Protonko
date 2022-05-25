@@ -1,6 +1,6 @@
 # 💫About Me :
 - 🔭 I’m currently working on Raiffeisen Bank
-- 🌱 I’m currently learning more about NestJS
+- 🌱 I’m currently learning more about NestJS and PWA
 - 💬 Ask me about React, React Native
 - 📪 How to reach me: probegrofanston@gmail.com
 
